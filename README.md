@@ -1,4 +1,4 @@
-# EDA-on-Supply-Chain-Data
+# EDA-on-Supply-Chain-Dataset
 
 # 📦 Supply Chain & Sales Data Analysis
 
@@ -33,7 +33,7 @@ The analysis is performed using **Python (Pandas, Seaborn, Matplotlib)** with **
 | Haircare     | 13,611     | 174,455.39          |
 | Skincare     | 20,731     | 241,628.16          |
 
-*Visualization placeholder:* Pie chart for **sales share by product type**  
+*Visualization placeholder:* Pie chart for **sales share by product type** 
 
 #### Customer Demographics vs Product Purchases
 
@@ -210,14 +210,3 @@ The analysis is performed using **Python (Pandas, Seaborn, Matplotlib)** with **
 
 ---
 
-✅ **This README is recruiter-ready**, highlighting:  
-- Strong EDA skills in **Sales, Operations, and Logistics**  
-- Ability to **interpret business insights** from data  
-- Clear visualization placeholders to show analytical work  
-
----
-
-*Optional:* Add actual charts by exporting matplotlib/seaborn figures as images and embedding them like:  
-
-```markdown
-![Sales Share](images/sales_share.png)
